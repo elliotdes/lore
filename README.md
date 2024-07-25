@@ -11,7 +11,7 @@ is not yet covered in my notes, offer the ability to generate a note. This shoul
 be available quickly and without friction, hence the decision to use the Spotlight
 replacer, Raycast.
 
-## Implimantation
+## implementation
 
 ```mermaid
 graph LR
